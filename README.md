@@ -1,4 +1,5 @@
-# quantequity
+# Configuring BBG Python API with Python 2.7 and Pandas
+
 **Setting Up**
 
 1. Download the 64 bit version of the [Anaconda2-5.0.0](https://repo.continuum.io/archive/) distribution. Python 2 is required for compatibility with the **tia** library.
